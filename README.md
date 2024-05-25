@@ -1,0 +1,2 @@
+# OWON-SDS1022-LabVIEW
+OWON SDS1022 VISA project for usage in HAL

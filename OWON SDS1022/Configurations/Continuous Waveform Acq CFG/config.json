@@ -1,0 +1,32 @@
+{
+    "MAX Identifier": "SDS1022",
+    "Attributes": {
+        "Channels": [
+            {
+                "Name": "CH1",
+                "Display": "ON",
+                "Vertical Coupling": "DC",
+                "Probe Attenuation": "1X",
+                "Vertical Scale": "5V",
+                "Vertical Offset": "0",
+                "Inverse": "OFF"
+            },
+            {
+                "Name": "CH2",
+                "Display": "OFF",
+                "Vertical Coupling": "DC",
+                "Probe Attenuation": "1X",
+                "Vertical Scale": "1V",
+                "Vertical Offset": "0",
+                "Inverse": "OFF"
+            }
+        ],
+        "Acquire": {
+            "Mode": "SAMPle"
+        },
+		"Horizontal": {
+            "Scale": "100us",
+			"Offset": "0"
+        }
+    }
+}

@@ -14,9 +14,10 @@
 		<Item Name="Documentation" Type="Folder">
 			<Item Name="SDS1000_Oscilloscopes_SCPI_Protocol.pdf" Type="Document" URL="../documentation/SDS1000_Oscilloscopes_SCPI_Protocol.pdf"/>
 		</Item>
-		<Item Name="Continuous Waveform Acq CFG.lvclass" Type="LVClass" URL="../OWON SDS1022/Configurations/Continuous Waveform Acq CFG/Continuous Waveform Acq CFG.lvclass"/>
-		<Item Name="OWON SDS1022.lvclass" Type="LVClass" URL="../OWON SDS1022/OWON SDS1022.lvclass"/>
-		<Item Name="owon.lvlib" Type="Library" URL="../OWON SDS1022/OWON Code/owon.lvlib"/>
+		<Item Name="IConfigure Scope.lvclass" Type="LVClass" URL="../../HAL/Interfaces/IConfigure Scope/IConfigure Scope.lvclass"/>
+		<Item Name="OWON SDS1022.lvlib" Type="Library" URL="../OWON SDS1022/OWON SDS1022.lvlib"/>
+		<Item Name="Scope Base.lvlib" Type="Library" URL="../../HAL/Scope Base/Scope Base.lvlib"/>
+		<Item Name="Scope VISA.lvlib" Type="Library" URL="../../HAL/Scope VISA/Scope VISA.lvlib"/>
 		<Item Name="test.vi" Type="VI" URL="../test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -41,8 +42,6 @@
 			<Item Name="IConfigure.lvclass" Type="LVClass" URL="../../HAL/Interfaces/IConfigure/IConfigure.lvclass"/>
 			<Item Name="Instrument.lvclass" Type="LVClass" URL="../../HAL/Hardware_class/Instrument.lvclass"/>
 			<Item Name="IScope.lvclass" Type="LVClass" URL="../../HAL/Interfaces/IScope/IScope.lvclass"/>
-			<Item Name="Scope Base.lvlib" Type="Library" URL="../../HAL/Scope Base/Scope Base.lvlib"/>
-			<Item Name="Scope VISA.lvlib" Type="Library" URL="../../HAL/Scope VISA/Scope VISA.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

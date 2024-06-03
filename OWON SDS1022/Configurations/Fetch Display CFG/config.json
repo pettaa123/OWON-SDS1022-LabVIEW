@@ -7,7 +7,7 @@
                 "Display": "ON",
                 "Vertical Coupling": "DC",
                 "Probe Attenuation": "1X",
-                "Vertical Scale": "5V",
+                "Vertical Scale": "2V",
                 "Vertical Offset": "0",
                 "Inverse": "OFF"
             },
@@ -26,7 +26,7 @@
         },
 		"Horizontal": {
             "Scale": "100us",
-			"Offset": "0"
+			      "Offset": "0"
         }
     }
 }

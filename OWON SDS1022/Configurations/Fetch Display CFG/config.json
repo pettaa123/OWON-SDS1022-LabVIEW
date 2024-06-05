@@ -8,7 +8,7 @@
                 "Vertical Coupling": "DC",
                 "Probe Attenuation": "1X",
                 "Vertical Scale": "2V",
-                "Vertical Offset": "0",
+                "Vertical Offset": "-2", //divs
                 "Inverse": "OFF"
             },
             {
@@ -25,7 +25,7 @@
             "Mode": "SAMPle"
         },
 		"Horizontal": {
-            "Scale": "100us",
+            "Scale": "10us",
 			      "Offset": "0"
         }
     }

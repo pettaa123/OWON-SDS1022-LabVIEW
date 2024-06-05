@@ -31,6 +31,7 @@
 				<Item Name="JSONtext LVClass Serializer.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/JDP Science/JSONtext/LVClass Serializer/JSONtext LVClass Serializer.lvclass"/>
 				<Item Name="JSONtext.lvlib" Type="Library" URL="/&lt;vilib&gt;/JDP Science/JSONtext/JSONtext.lvlib"/>
 				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/numeric/LVNumericRepresentation.ctl"/>
+				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
@@ -40,6 +41,7 @@
 			<Item Name="IConfigure.lvclass" Type="LVClass" URL="../../HAL/Interfaces/IConfigure/IConfigure.lvclass"/>
 			<Item Name="Instrument.lvclass" Type="LVClass" URL="../../HAL/Instrument/Instrument.lvclass"/>
 			<Item Name="IScope.lvclass" Type="LVClass" URL="../../HAL/Interfaces/IScope/IScope.lvclass"/>
+			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="Scope Base.lvlib" Type="Library" URL="../../HAL/Scope Base/Scope Base.lvlib"/>
 			<Item Name="Scope VISA.lvlib" Type="Library" URL="../../HAL/Scope VISA/Scope VISA.lvlib"/>
 		</Item>

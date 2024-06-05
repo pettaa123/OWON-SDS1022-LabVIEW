@@ -25,7 +25,7 @@
             "Mode": "SAMPle"
         },
 		"Horizontal": {
-            "Scale": "10us",
+            "Scale": "20us",
 			      "Offset": "0"
         }
     }

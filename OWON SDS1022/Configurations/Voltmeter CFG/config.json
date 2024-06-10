@@ -4,7 +4,7 @@
         "Channels": [
             {
                 "Name": "CH1",
-                "Display": true,
+                "Display": "ON",
                 "Vertical Coupling": "DC",
                 "Probe Attenuation": "1X",
                 "Vertical Scale": "2V",
@@ -13,7 +13,7 @@
             },
             {
                 "Name": "CH2",
-                "Display": false,
+                "Display": "OFF",
                 "Vertical Coupling": "DC",
                 "Probe Attenuation": "1X",
                 "Vertical Scale": "1V",
@@ -25,7 +25,7 @@
             "Mode": "SAMPle"
         },
 		"Horizontal": {
-            "Scale": "100us",
+            "Scale": "1.0ms",
 			"Offset": "0"
         }
     }
